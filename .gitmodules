@@ -1,0 +1,3 @@
+[submodule "theme-twitter"]
+	path = theme-twitter
+	url = https://github.com/jekyllbootstrap/theme-twitter.git
