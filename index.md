@@ -15,3 +15,4 @@ I live in [Knoxville, TN](https://en.wikipedia.org/wiki/Knoxville,_Tennessee) at
 - __LinkedIn:__ [AlbertJohnWright](https://linkedin.com/in/albertjohnwright)
 - __Facebook__ [AlbertJohnWright](https://facebook.com/albertjohnwright)
 - __GitHub:__ [algrym](https://github.com/algrym)
+- __Resume:__ [AJWright-Resume.pdf](AJWright-Resume.pdf)
