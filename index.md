@@ -4,7 +4,7 @@ title: Hello!
 ---
 My name is [A. J. Wright](http://ajw.io).
 
-I work as an [IT Security Officer](https://en.wikipedia.org/wiki/Chief_information_security_officer), which often draws from my experience as a software developer and system administrator.  
+I work as a [UNIX](https://en.wikipedia.org/wiki/Unix) and [Linux](https://en.wikipedia.org/?title=Linux) [System Administrator](https://en.wikipedia.org/?title=System_administrator), which often draws from my experience as a software developer and IT security analyst.  
 
 For fun, I teach [SCUBA diving](https://www.facebook.com/donsscubaminions) and I design/develop video games.
 
