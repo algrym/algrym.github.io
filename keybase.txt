@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ajwright
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ajw.io
+  * I am ajwright (https://keybase.io/ajwright) on keybase.
+  * I have a public key ASBhknzBTej9uLdSeNmckUz0vTmmMsTbFqUtgtKjSghTCAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012061927cc14de8fdb8b75278d99c914cf4bd39a632c4db16a52d82d2a34a0853080a",
+      "host": "keybase.io",
+      "kid": "012061927cc14de8fdb8b75278d99c914cf4bd39a632c4db16a52d82d2a34a0853080a",
+      "uid": "3457db6923c76dbd57019c145760f319",
+      "username": "ajwright"
+    },
+    "merkle_root": {
+      "ctime": 1526503762,
+      "hash": "e32d02b7aef4752827f49c368fe0c79dc40aaf08aaa768c390b249217800d416aaa5c2a5589c1a40e68f4fa8bd9ea79a8879bb601cc0c87563359e4e9cdf69ac",
+      "hash_meta": "3fc6fd9c831cb7dbc8695aec5f31be2d3dab081ba96ccab6eed60b250772a2ef",
+      "seqno": 2754387
+    },
+    "service": {
+      "entropy": "rFFYfkXsWTj7L1y79m5z1nQk",
+      "hostname": "ajw.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.48"
+  },
+  "ctime": 1526503778,
+  "expire_in": 504576000,
+  "prev": "8cf93bed728a1e32b93e50890324682194c1ee4d5da9f504adb5f4bab157d760",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYZJ8wU3o/bi3UnjZnJFM9L05pjLE2xalLYLSo0oIUwgKp3BheWxvYWTESpcCBsQgjPk77XKKHjK5PlCJAyRoIZTB7k1dqfUErbX0urFX12DEIHv5+ATXamTPvPoXADrfZ3V4FZfwoQBOcmwDizJJC1wwAgHCo3NpZ8RA+WtEsXN1SuU5vX7TYK6vfY3WA5gfoAL0P6zGIcTZH5dTahDgkVX/gv8EiQsWYZDtpYFkq2YfTzcpL3tIhzUHCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMUMRt2gwWtJh+D4d2/e0cXSZ4SD6faZIVGxJ1bySXpJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ajwright
+
+==================================================================
