@@ -10,6 +10,7 @@ Fortunately my favorite hobby is working with [enterprise IT hardware and softwa
 I live in [Knoxville, TN](https://en.wikipedia.org/wiki/Knoxville,_Tennessee) with my wife and more cats than I'm comfortable admitting.
 
 - __Email:__ ajw AT ajw DOT io
+- __Mastodon:__ [@ajw@techhub.social](https://techhub.social/@ajw)
 - __Twitter:__ [@ajw](https://twitter.com/ajw)
 - __LinkedIn:__ [AlbertJohnWright](https://linkedin.com/in/albertjohnwright)
 - __GitHub:__ [algrym](https://github.com/algrym)
