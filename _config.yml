@@ -26,6 +26,9 @@ author :
   email : ajw@ajw.io
   github : algrym
   twitter : ajw
+  mastodon:
+  - username: ajw
+  - instance: techhub.social
   feedburner : algrym
 
 # Build settings
