@@ -11,7 +11,7 @@ I live in [Knoxville, TN](https://en.wikipedia.org/wiki/Knoxville,_Tennessee) wi
 
 - __Email:__ ajw AT ajw DOT io
 - __<a rel="me" href="https://techhub.social/@ajw">Mastodon</a>:__ [@ajw@techhub.social](https://techhub.social/@ajw)
-- __Twitter:__ [@ajw](https://twitter.com/ajw)
+- __Twitter:__ [@ajw](https://twitter.com/ajw) (not really anymore)
 - __LinkedIn:__ [AlbertJohnWright](https://linkedin.com/in/albertjohnwright)
 - __GitHub:__ [algrym](https://github.com/algrym)
 - __Resume:__ [AJWright-Resume.pdf](AJWright-Resume.pdf)
