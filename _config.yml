@@ -30,6 +30,8 @@ author :
   - username: ajw
   - instance: techhub.social
   feedburner : algrym
+locale: "en-US"
+subtitle: "Who neglects just one website anymore?"
 
 # Build settings
 markdown: kramdown
