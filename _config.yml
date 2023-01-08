@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ajw.io
+title_separator: "-"
 email: ajw@ajw.io
 description: > # this means to ignore newlines until "baseurl:"
   Who neglects just one website anymore?
@@ -22,7 +23,8 @@ url: "http://ajw.io" # the base hostname & protocol for your site, e.g. http://e
 twitter_username: ajw
 github_username: algrym
 author:
-  name: A. J. Wright
+  name: "A. J. Wright"
+  location: "Knoxville, TN, USA"
   email: ajw@ajw.io
   github: algrym
   twitter: ajw
@@ -33,6 +35,12 @@ author:
 locale: "en-US"
 subtitle: "Who neglects just one website anymore?"
 github: [metadata]
+
+social:
+  type: Person
+  links:
+    - "https://techhub.social/@ajw"
+    - "https://twitter.com/ajw"
 
 # Build settings
 markdown: kramdown
@@ -49,7 +57,27 @@ minimal_mistakes_skin: "dark"
     
 #show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 show_downloads: false
-google_analytics: UA-50796794-1
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-50796794-1"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values: 
+      layout: single
+      show_title: true
+      show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
