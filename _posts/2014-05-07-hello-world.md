@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hello World!"
 date: 2014-05-07 16:27:31
 disqus: y

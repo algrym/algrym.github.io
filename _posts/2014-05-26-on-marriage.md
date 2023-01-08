@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "On Marriage"
 date: 2014-05-26 16:31:47 -0400
 disqus: y
